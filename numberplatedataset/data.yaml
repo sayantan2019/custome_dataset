@@ -3,7 +3,7 @@ val: valid/images
 test: test/images
 
 nc: 1
-names: ['number_plate']
+names: ['numberplate']
 
 roboflow:
   workspace: roboflow-universe-projects
